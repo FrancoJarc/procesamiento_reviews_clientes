@@ -43,6 +43,7 @@ El dataset contiene información inconsistente, incluyendo formatos de rating di
 ## Tecnologías utilizadas
 
 - Python
+- ChatGPT
 - Expresiones regulares (Regex)
 - Manejo de archivos de texto
 
