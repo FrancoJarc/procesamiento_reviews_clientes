@@ -33,7 +33,6 @@ El dataset contiene información inconsistente, incluyendo formatos de rating di
 ## Problemas de calidad tratados
 
 - Ratings faltantes.
-- Ratings duplicados.
 - Ratings fuera de rango.
 - Formatos inconsistentes.
 - Diferencias entre el contenido textual y la valoración.
